@@ -4,15 +4,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://parham-dev27.github.io/Testimonials-Grid-Section/" color="white">
+    <a href="https://parham-dev27.github.io/QR-Code-Component/" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/testimonials-grid-section-parhamdev27-ry9mBDQ6uS">
+    <a href="https://www.frontendmentor.io/solutions/qr-code-component-parhamdev27-X8YW9nkJgT">
       Solution
     </a>
    <span> | </span>
-    <a href="https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub">
+    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub">
       Challenge
     </a>
   </h3>
@@ -45,4 +45,4 @@ Another great project to practice grid. I finally had a better understanding of 
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/testimonials-grid-section-parhamdev27-ry9mBDQ6uS">solution</a>. It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/qr-code-component-parhamdev27-X8YW9nkJgT">solution</a>. It definitely helps to find new ways to code and find easier solutions!
