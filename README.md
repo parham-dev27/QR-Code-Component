@@ -1,6 +1,6 @@
-<img src="./Screenshots/screenshot-desktop.png"></img>
+<img src="screenshots/screenshot-desktop.png"></img>
 
-<h1 align="center">Testimonials Grid Section</h1>
+<h1 align="center">QR Code Component</h1>
 
 <div align="center">
   <h3>
