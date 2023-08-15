@@ -1,4 +1,4 @@
-<img src="screenshots/screenshot-desktop.png"></img>
+<img src="screenshots/desktop-view.png"></img>
 
 <h1 align="center">QR Code Component</h1>
 
